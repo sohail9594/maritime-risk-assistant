@@ -1,0 +1,5 @@
+DATE: May 31, 2026
+SOURCE: World Organisation for Animal Health (WOAH)
+SUBJECT: H5N1 Outbreak - Total Poultry Transit Ban
+DOCUMENT_TYPE: Biosecurity Regulation
+DETAILS: Following a confirmed outbreak of highly pathogenic H5N1 Avian Influenza in a major South American export region, the GCC has implemented an absolute border ban on all poultry products originating from or transiting through the affected zone. This ban supersedes all religious, commercial, or humanitarian designations. Even fully certified frozen Halal poultry from this origin will be incinerated at the port of entry without exception.

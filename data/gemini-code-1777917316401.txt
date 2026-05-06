@@ -1,0 +1,5 @@
+DATE: May 15, 2026
+SOURCE: Gulf Maritime Port Authority
+SUBJECT: Class 1 Dangerous Goods Transshipment
+DOCUMENT_TYPE: Security Policy
+DETAILS: Effective immediately, all major commercial container terminals in the UAE and Oman (including Jebel Ali and Salalah) have instituted a zero-tolerance ban on the staging or transshipment of Class 1 Dangerous Goods (Explosives, Detonators, and Munitions). Vessels carrying Class 1 cargo may only discharge at designated, remote military-controlled anchorages. Commercial supply chains cannot route mining explosives or commercial fireworks through standard civilian port infrastructure.

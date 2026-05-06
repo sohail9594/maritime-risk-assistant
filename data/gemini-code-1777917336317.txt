@@ -1,0 +1,5 @@
+DATE: May 19, 2026
+SOURCE: Medical Imaging Hardware Consortium
+SUBJECT: Liquid Helium Boil-Off in Stalled Scanners
+DOCUMENT_TYPE: Technical Alert
+DETAILS: Fully assembled MRI machines in transit rely on a "cold head" compressor to keep their liquid helium coolant at -269°C. If the shipping container loses power for more than 14 days due to port congestion, the helium will boil off and vent into the atmosphere (a "quench"). Once the helium is gone, the superconducting magnet is permanently destroyed, resulting in a $2 Million USD total loss. Continuous generator power is non-negotiable.

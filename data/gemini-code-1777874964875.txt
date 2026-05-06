@@ -1,0 +1,5 @@
+DATE: May 3, 2026
+SOURCE: Maersk Ocean Line
+SUBJECT: Blank Sailings and Rerouting Protocol
+DOCUMENT_TYPE: Carrier Update
+DETAILS: Maersk announces an immediate suspension of all direct calls to Bandar Abbas and Jebel Ali for the next 14 days. All cargo currently en route from the Indian Subcontinent (including Mumbai) will be diverted. Customers shipping critical healthcare components may request a diversion discharge at Jeddah (Saudi Arabia) or Salalah (Oman). Note that onward overland freight from Jeddah to Dubai adds approximately 5 to 7 days of transit time.

@@ -1,0 +1,5 @@
+DATE: June 6, 2026
+SOURCE: Advanced Semiconductor Materials Lithography (ASML)
+SUBJECT: Sovereign GPS Geofencing on EUV Machines
+DOCUMENT_TYPE: Manufacturer Security Protocol
+DETAILS: Next-generation Extreme Ultraviolet (EUV) lithography machines are equipped with military-grade, tamper-proof GPS geofencing to comply with global export bans. If the logistics carrier routes the transport vessel or overland truck within 50 nautical miles of a Level 5 Sanctioned Territory (e.g., Iranian territorial waters), the EUV machine's internal security protocol will trigger an irreversible firmware bricking sequence. The $200M machine will permanently disable its own optical arrays.

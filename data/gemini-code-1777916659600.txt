@@ -1,0 +1,5 @@
+DATE: May 8, 2026
+SOURCE: Saudi Cybersecurity Authority
+SUBJECT: Ransomware Attack on Jeddah Islamic Port
+DOCUMENT_TYPE: Security Alert
+DETAILS: The automated customs clearing terminal at Jeddah Islamic Port has suffered a targeted ransomware attack. All digital manifest processing is offline. The port has reverted to manual, paper-based customs clearances. While the port remains physically safe from geopolitical violence, this cyber incident has introduced catastrophic operational delays. Time-critical medical cargo, including surgical robotics, will face an additional 7 to 10 days of clearing time until the digital infrastructure is restored.

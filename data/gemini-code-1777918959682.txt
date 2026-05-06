@@ -1,0 +1,5 @@
+DATE: June 1, 2026
+SOURCE: Global Aerospace Logistics Guild
+SUBJECT: Acoustic Shock Vulnerability in Satellites
+DOCUMENT_TYPE: Physical Transit Constraint
+DETAILS: Commercial telecommunications satellites are engineered to withstand the specific vertical G-forces of a rocket launch, but they are highly vulnerable to lateral acoustic shock and low-frequency vibration. Transporting a satellite chassis via standard rail freight is prohibited, as the lateral "shunting" impacts of train cars coupling will shatter the delicate internal telemetry gyroscopes. Movement must be restricted to air-ride, environmentally sealed overland transporters moving under 50 km/h.

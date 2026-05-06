@@ -1,0 +1,5 @@
+DATE: May 29, 2026
+SOURCE: NATO Cooperative Cyber Defence Centre
+SUBJECT: ECDIS Navigation Ransomware
+DOCUMENT_TYPE: Cyber-Physical Threat Alert
+DETAILS: A sophisticated ransomware strain is actively targeting the Electronic Chart Display and Information Systems (ECDIS) of ultra-large container vessels. Infected vessels lose all automated navigation and collision-avoidance capabilities. Port authorities in the GCC will not allow any vessel with a compromised ECDIS to enter territorial waters or approach the pilot boarding station due to the risk of grounding. Infected vessels must remain in international waters until a manual cybersecurity hard-reset is performed.

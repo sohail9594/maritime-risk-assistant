@@ -1,0 +1,5 @@
+DATE: June 17, 2026
+SOURCE: International Convention on Arrest of Ships
+SUBJECT: Execution of Maritime Liens
+DOCUMENT_TYPE: Legal Enforcement Protocol
+DETAILS: A maritime lien is a privileged claim upon sea-connected property (the ship, cargo, or freight). If a carrier fails to pay port dues, crew wages, or collision damages, the aggrieved party can legally "arrest" the ship through a local admiralty court. An arrested ship is physically chained to the dock and cannot move, trapping all cargo on board indefinitely. Cargo owners must litigate separately to have their unaffected goods released from an arrested vessel.

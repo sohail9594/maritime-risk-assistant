@@ -1,0 +1,199 @@
+Term: demurrage
+Definition: Demurrage is a fee charged when cargo stays at a port or terminal longer than the allowed free time. It usually applies after containers are unloaded but not collected on time. These fees can become expensive if port delays or paperwork issues are not managed quickly.
+Context: Demurrage is used in port operations when importers or consignees delay container pickup.
+
+Term: detention
+Definition: Detention is a fee charged when a shipping container is kept outside the port for longer than the allowed free time. It usually applies after the consignee has picked up the container but has not returned it empty. Detention is different from demurrage because it happens outside the terminal.
+Context: Detention is used when containers remain with truckers, warehouses, or customers beyond the agreed return period.
+
+Term: freight forwarder
+Definition: A freight forwarder is a logistics company that arranges cargo movement for shippers. It may coordinate ocean freight, trucking, customs paperwork, warehousing, and insurance. Freight forwarders usually do not own the ship but manage the shipment process.
+Context: Freight forwarders are used when companies need help coordinating international shipments across several transport modes.
+
+Term: bill of lading
+Definition: A bill of lading is a key shipping document issued by the carrier. It acts as a receipt for the cargo, evidence of the transport contract, and sometimes a document of title. It is important because cargo release often depends on the correct bill of lading.
+Context: Bills of lading are used in sea freight to prove cargo ownership and authorize cargo delivery.
+
+Term: transshipment
+Definition: Transshipment means moving cargo from one vessel or transport service to another before it reaches the final destination. It often happens at major hub ports. Transshipment can improve network efficiency but may add delay or handling risk.
+Context: Transshipment is used when cargo from smaller routes is transferred through a larger hub port.
+
+Term: last-mile delivery
+Definition: Last-mile delivery is the final stage of moving goods from a warehouse, port, or distribution center to the final customer. It is often the most visible part of the logistics chain. Delays in last-mile delivery can affect customer satisfaction even if the ocean shipment arrived on time.
+Context: Last-mile delivery is used in logistics planning for retail, e-commerce, and local distribution.
+
+Term: port congestion
+Definition: Port congestion happens when too many vessels, containers, or trucks are waiting to use port facilities. It can be caused by labor shortages, customs delays, weather, equipment failures, or sudden demand spikes. Congestion increases waiting time and can raise shipping costs.
+Context: Port congestion is used in risk analysis when estimating delays at busy terminals.
+
+Term: cargo handling
+Definition: Cargo handling means the physical movement, loading, unloading, securing, and storage of goods. Proper handling reduces damage, loss, and safety risks. Sensitive cargo may need special equipment or trained workers.
+Context: Cargo handling is used in terminal, warehouse, and vessel operations.
+
+Term: overland trucking
+Definition: Overland trucking is the movement of cargo by road between ports, cities, warehouses, or borders. It is often used as an alternative when sea routes are delayed or risky. Road transport may be faster in some cases but can introduce border, road quality, security, and temperature-control risks.
+Context: Overland trucking is used when shipments need inland delivery or rerouting around maritime disruptions.
+
+Term: customs clearance
+Definition: Customs clearance is the process of getting government approval to import or export cargo. It usually requires accurate documents, duties, taxes, and compliance checks. If documents are incomplete or cargo is restricted, clearance can be delayed.
+Context: Customs clearance is used whenever goods cross national borders.
+
+Term: war risk premium
+Definition: A war risk premium is an extra insurance cost charged when a vessel travels through a high-risk area. It may apply in regions affected by conflict, piracy, missile attacks, or military tension. The premium increases the total cost of using that route.
+Context: War risk premiums are used in route planning and insurance cost calculations for dangerous maritime corridors.
+
+Term: sanctioned cargo
+Definition: Sanctioned cargo is cargo restricted or prohibited by government sanctions. It may involve certain goods, companies, vessels, countries, or individuals. Handling sanctioned cargo can create serious legal, financial, and reputational risk.
+Context: Sanctioned cargo is used in compliance checks before accepting or routing shipments.
+
+Term: route diversion
+Definition: Route diversion means changing a shipment from its planned route to another route. It may be done because of port congestion, conflict, weather, sanctions, or safety concerns. Diversion can reduce one risk but may increase cost, transit time, or insurance exposure.
+Context: Route diversion is used when logistics teams choose a safer or more reliable path for cargo.
+
+Term: rerouting
+Definition: Rerouting is the process of changing a cargo journey after the original plan has been made. It can involve a different port, road corridor, vessel service, or transport mode. Rerouting should consider cost, delay, cargo sensitivity, and regulatory requirements.
+Context: Rerouting is used during disruptions such as port closures, geopolitical risks, or urgent delivery changes.
+
+Term: supply chain disruption
+Definition: A supply chain disruption is any event that interrupts the normal movement of goods, information, or services. Examples include port strikes, war, cyberattacks, weather events, and equipment shortages. Disruptions can create delays, extra costs, and inventory shortages.
+Context: Supply chain disruption is used in logistics risk planning and contingency management.
+
+Term: geopolitical risk
+Definition: Geopolitical risk is the possibility that political events, conflict, sanctions, or diplomatic tensions will affect trade and transport. In maritime logistics, it can change route safety, insurance costs, and port access. These risks can develop quickly and require active monitoring.
+Context: Geopolitical risk is used when evaluating routes through sensitive regions such as straits, canals, or conflict zones.
+
+Term: delay penalties
+Definition: Delay penalties are financial charges caused by late delivery, late pickup, or missed contract deadlines. They may be included in sales contracts, charter agreements, or service-level agreements. Penalties can increase the total cost of a disruption.
+Context: Delay penalties are used when evaluating whether a shipment should wait, reroute, or use faster transport.
+
+Term: insurance exposure
+Definition: Insurance exposure is the amount of risk an insurer or insured party faces from a shipment, vessel, or operation. Higher exposure may come from valuable cargo, dangerous routes, poor handling, or weak documentation. Exposure affects premiums, coverage decisions, and claim risk.
+Context: Insurance exposure is used when assessing the financial risk of a maritime shipment.
+
+Term: port clearance
+Definition: Port clearance is the approval process that allows a vessel or cargo to enter, operate, or leave a port. It may involve port authority checks, customs, immigration, health, and safety requirements. Without clearance, cargo or vessels may be delayed.
+Context: Port clearance is used before vessels berth, depart, or release cargo.
+
+Term: berthing
+Definition: Berthing is the process of bringing a ship alongside a dock or quay so cargo operations can begin. A vessel may wait for a berth if the terminal is full or if weather conditions are unsafe. Berthing delays can affect vessel schedules and cargo delivery.
+Context: Berthing is used in port operations when assigning ships to loading or unloading positions.
+
+Term: anchorage
+Definition: Anchorage is an area near a port where vessels wait at anchor before entering the terminal. Ships may wait there for berths, inspections, pilots, or weather clearance. Long anchorage times can signal port congestion.
+Context: Anchorage is used when vessels are waiting offshore before port entry.
+
+Term: draft (ship)
+Definition: A ship's draft is the vertical distance between the waterline and the bottom of the hull. It shows how deep the vessel sits in the water. Ports and channels must have enough depth for a vessel's draft, or the ship may not be able to enter safely.
+Context: Draft is used when checking whether a ship can access a port, canal, or river channel.
+
+Term: container yard
+Definition: A container yard is a terminal area where containers are stored before pickup, loading, or transfer. It includes import, export, empty, and sometimes refrigerated container areas. A crowded container yard can slow down cargo movement.
+Context: Container yards are used in port and terminal operations to manage container storage and flow.
+
+Term: terminal operator
+Definition: A terminal operator is the company that manages cargo handling facilities at a port. It may operate cranes, yards, gates, and vessel loading operations. Terminal performance strongly affects vessel turnaround and container pickup times.
+Context: Terminal operators are used in port logistics when coordinating loading, unloading, and container release.
+
+Term: vessel turnaround time
+Definition: Vessel turnaround time is the total time a ship spends at a port from arrival to departure. It includes waiting, berthing, loading, unloading, inspections, and clearance. Shorter turnaround time usually means better port efficiency.
+Context: Vessel turnaround time is used to measure port performance and schedule reliability.
+
+Term: ship manifest
+Definition: A ship manifest is a list of cargo, containers, passengers, or supplies carried on a vessel. It helps authorities, carriers, and terminals know what is on board. Incorrect manifest information can cause customs or compliance problems.
+Context: Ship manifests are used for customs checks, safety planning, and cargo tracking.
+
+Term: hull insurance
+Definition: Hull insurance covers physical damage to a vessel's hull, machinery, and equipment. It protects the shipowner against losses from accidents, collisions, storms, and some other marine risks. Coverage depends on the policy terms and exclusions.
+Context: Hull insurance is used by shipowners and operators to protect the vessel itself.
+
+Term: cargo insurance
+Definition: Cargo insurance covers loss or damage to goods during transport. It may apply during sea, air, road, rail, or multimodal movement depending on the policy. Cargo owners should check what risks are covered and excluded.
+Context: Cargo insurance is used when shippers want financial protection for goods in transit.
+
+Term: marine insurance
+Definition: Marine insurance is a broad category of insurance for vessels, cargo, freight, and maritime liabilities. It helps manage financial losses from transport risks at sea and related inland stages. Different policies cover different parties and risks.
+Context: Marine insurance is used across shipping, port operations, freight forwarding, and cargo ownership.
+
+Term: premium
+Definition: A premium is the price paid for insurance coverage. In maritime insurance, premiums can increase when routes, cargo, or vessels are considered high risk. A higher premium does not always mean every loss will be covered.
+Context: Premium is used when calculating the cost of insuring cargo or a vessel.
+
+Term: deductible
+Definition: A deductible is the amount the insured party must pay before the insurer pays a covered claim. It helps share risk between the insurer and the policyholder. A higher deductible can reduce the premium but increases the insured party's out-of-pocket cost after a loss.
+Context: Deductibles are used in insurance policies for cargo, hull, and liability claims.
+
+Term: coverage
+Definition: Coverage describes the risks, losses, or events that an insurance policy agrees to protect. It depends on the wording of the policy and any endorsements or exclusions. Cargo owners should confirm coverage before using risky routes or handling sensitive goods.
+Context: Coverage is used when checking whether a shipment loss or delay may be insured.
+
+Term: exclusion clause
+Definition: An exclusion clause is a policy term that removes certain risks from insurance coverage. Common exclusions may involve improper packing, delay, sanctions, war risks, or unsafe handling, depending on the policy. Exclusions are important because they can prevent a claim from being paid.
+Context: Exclusion clauses are used when reviewing whether a loss is covered by insurance.
+
+Term: claim settlement
+Definition: Claim settlement is the process of reviewing and paying an insurance claim after a covered loss. It usually requires evidence such as invoices, survey reports, photos, transport documents, and proof of damage. Settlement can be delayed if documents are missing or coverage is disputed.
+Context: Claim settlement is used after cargo damage, vessel damage, or insured maritime losses.
+
+Term: GPS jamming
+Definition: GPS jamming is intentional or accidental interference that blocks or weakens GPS signals. It can affect navigation, tracking, and timing systems. A jammed signal does not always mean the equipment or cargo is physically damaged.
+Context: GPS jamming is used in maritime security and logistics monitoring when vessels or containers lose positioning data.
+
+Term: satellite telemetry
+Definition: Satellite telemetry is the sending of data through satellites from vessels, containers, or equipment to a monitoring system. It can include location, temperature, humidity, door status, or equipment alerts. If the satellite link is disrupted, the device may still operate locally but stop reporting data.
+Context: Satellite telemetry is used to monitor cargo and assets moving through remote sea or land corridors.
+
+Term: IoT container
+Definition: An IoT container is a shipping container fitted with connected sensors and communication equipment. It may monitor temperature, location, shock, door openings, humidity, or battery status. The container can provide better visibility but depends on power and connectivity for remote reporting.
+Context: IoT containers are used for cold-chain cargo, high-value cargo, and shipments needing real-time visibility.
+
+Term: edge computing
+Definition: Edge computing means processing data locally on a device instead of sending everything to a central cloud system. In logistics, this helps equipment keep working even when communication links are weak. It is useful for smart containers that need to maintain temperature or alarms locally.
+Context: Edge computing is used when containers, trucks, or vessels must make local decisions during connectivity loss.
+
+Term: edge controller
+Definition: An edge controller is a small onboard computer that controls local equipment and sensor logic. In a smart container, it may manage temperature, alarms, and data storage even when satellite communication is unavailable. This helps separate physical operation from remote dashboard visibility.
+Context: Edge controllers are used in smart containers, reefer units, and industrial logistics equipment.
+
+Term: shock sensor
+Definition: A shock sensor detects sudden impacts or high vibration events during transport. It helps identify whether fragile cargo may have been dropped, hit, or mishandled. Shock alerts can affect inspections, claims, and warranty decisions.
+Context: Shock sensors are used for fragile electronics, servers, medical devices, and precision equipment.
+
+Term: tilt sensor
+Definition: A tilt sensor detects whether cargo has been leaned, tipped, or overturned beyond an acceptable angle. It is useful for goods that must stay upright. Triggered tilt sensors may indicate possible hidden damage even if packaging looks normal.
+Context: Tilt sensors are used for sensitive machinery, electronics, laboratory equipment, and high-value cargo.
+
+Term: temperature monitoring
+Definition: Temperature monitoring tracks whether cargo stays within an approved temperature range. It is critical for medicines, vaccines, food, chemicals, and other sensitive goods. Temperature records can support quality checks and insurance claims.
+Context: Temperature monitoring is used in cold-chain logistics and refrigerated container operations.
+
+Term: cargo seizure
+Definition: Cargo seizure happens when authorities take control of cargo because of legal, customs, sanctions, or ownership issues. It can delay delivery and create serious financial risk. Seizure decisions depend on the applicable law and facts of the shipment.
+Context: Cargo seizure is used in legal and compliance analysis for disputed or restricted shipments.
+
+Term: liability
+Definition: Liability means legal responsibility for loss, damage, delay, or failure to perform an obligation. In shipping, liability may involve carriers, freight forwarders, cargo owners, terminals, or insurers. The exact responsibility depends on contracts, transport documents, and applicable law.
+Context: Liability is used when deciding who may be responsible for cargo damage or delay.
+
+Term: compliance
+Definition: Compliance means following laws, regulations, sanctions, customs rules, safety standards, and contract requirements. In maritime logistics, compliance failures can lead to fines, delays, cargo holds, or rejected shipments. Good compliance checks reduce legal and operational risk.
+Context: Compliance is used before accepting cargo, selecting routes, preparing documents, and clearing customs.
+
+Term: regulatory risk
+Definition: Regulatory risk is the chance that laws, rules, or government actions will affect a shipment or business operation. It can include customs changes, sanctions, port restrictions, safety rules, or licensing requirements. Regulatory risk can create delays, extra costs, or legal exposure.
+Context: Regulatory risk is used when planning shipments through countries or ports with changing rules.
+
+Term: sanctions law
+Definition: Sanctions law restricts trade or financial dealings with certain countries, companies, vessels, people, or goods. Violating sanctions can result in cargo seizure, fines, blocked payments, or criminal penalties. Sanctions checks are especially important in international shipping.
+Context: Sanctions law is used in compliance screening before booking, routing, or releasing cargo.
+
+Term: international maritime law
+Definition: International maritime law is the body of rules and treaties that govern shipping, navigation, safety, pollution, and rights at sea. It includes conventions and principles that apply across borders. It helps define how vessels, states, and cargo interests interact in international waters and ports.
+Context: International maritime law is used when shipments cross borders or pass through international sea routes.
+
+Term: jurisdiction
+Definition: Jurisdiction is the legal authority of a country, court, or regulator to make decisions about a dispute or incident. In maritime cases, jurisdiction may depend on the flag state, port state, contract terms, cargo location, or where the event happened. Choosing the wrong jurisdiction can complicate claims and enforcement.
+Context: Jurisdiction is used when deciding which law or court may apply to a maritime dispute.
+
+Term: contract breach
+Definition: A contract breach happens when one party fails to meet an agreed obligation. In logistics, this may involve late delivery, wrong documents, unpaid charges, damaged cargo, or failure to provide agreed services. The consequences depend on the contract and applicable law.
+Context: Contract breach is used when evaluating disputes between shippers, carriers, forwarders, and customers.

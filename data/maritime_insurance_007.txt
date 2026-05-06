@@ -1,0 +1,5 @@
+DATE: June 23, 2026
+SOURCE: Green Marine Insurance Alliance
+SUBJECT: ESG Incentives for Dual-Fuel Vessels
+DOCUMENT_TYPE: Insurance Discount Advisory
+DETAILS: To incentivize maritime decarbonization, insurers are offering a "Green Transit Discount." Any cargo routed exclusively on vessels powered by LNG, Green Methanol, or Ammonia will receive a 15% discount on their base Cargo Insurance Premium. Logistics routing algorithms should factor in this 15% reduction when comparing the total landed costs of utilizing modern dual-fuel vessels versus older, heavy-fuel oil (HFO) burning ships.

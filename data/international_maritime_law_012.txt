@@ -1,0 +1,5 @@
+DATE: June 19, 2026
+SOURCE: Domestic Maritime Transport Laws
+SUBJECT: Cabotage Restrictions
+DOCUMENT_TYPE: Domestic Trade Law
+DETAILS: Cabotage laws (similar to the US Jones Act) govern the transport of goods between two ports within the same country. Many nations legally mandate that domestic sea freight must be carried exclusively on vessels built, owned, and flagged in that specific country. A foreign-flagged logistics carrier attempting to pick up cargo in Dubai and drop it off in Abu Dhabi violates UAE cabotage laws, resulting in severe fines and potential impoundment of the foreign vessel.

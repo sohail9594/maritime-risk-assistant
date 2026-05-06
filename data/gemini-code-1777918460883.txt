@@ -1,0 +1,5 @@
+DATE: May 26, 2026
+SOURCE: Suez Canal Authority
+SUBJECT: Drought-Induced Draft Limitations
+DOCUMENT_TYPE: Navigation Alert
+DETAILS: Extreme regional drought has reduced water levels in the Suez Canal. Effective immediately, the maximum allowable draft for transiting vessels is reduced from 20.1 meters to 18.5 meters. Fully laden "Megamax" container ships exceed this new draft limit and will run aground. These vessels must either offload 15% of their cargo at Red Sea ports before transiting or divert entirely around the Cape of Good Hope.

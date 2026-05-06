@@ -1,0 +1,5 @@
+DATE: May 11, 2026
+SOURCE: UAE Federal Traffic Council
+SUBJECT: Heavy-Lift and Out-of-Gauge Load Limits
+DOCUMENT_TYPE: Infrastructure Alert
+DETAILS: The transportation of monolithic industrial infrastructure, such as offshore drilling top-drives, gas turbines, and structural steel modules exceeding 150 metric tons, is strictly prohibited on standard federal highways including the E311 and E611. These Out-of-Gauge (OOG) loads cause severe asphalt degradation. Such equipment must be transported via coastal heavy-lift barges or require specialized multi-axle crawler transporters with full police highway closures booked 30 days in advance.

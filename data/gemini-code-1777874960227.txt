@@ -1,0 +1,5 @@
+DATE: May 2, 2026
+SOURCE: UAE Federal Customs Authority
+SUBJECT: Processing Delays at Jebel Ali Port
+DOCUMENT_TYPE: Operational Update
+DETAILS: Jebel Ali port is currently experiencing a 72-hour berthing delay for standard commercial freight due to rerouted container traffic. However, under the new Ministry of Health directive, all Reefer (refrigerated) containers carrying temperature-sensitive pharmaceuticals, biologics, and critical medical devices are granted "Fast-Track Priority." Priority containers are clearing customs within 12 to 24 hours of berthing.

@@ -1,0 +1,5 @@
+DATE: June 18, 2026
+SOURCE: Office of Foreign Assets Control (OFAC)
+SUBJECT: Comprehensive Embargo Protocols
+DOCUMENT_TYPE: International Sanctions Law
+DETAILS: Routing commercial cargo through comprehensively embargoed regions (e.g., North Korea, Iran, Syria, Cuba) violates OFAC regulations, applying to both US entities and foreign entities utilizing US financial systems. Even if the vessel simply transships through a sanctioned port without offloading the specific cargo, the entire shipment becomes "tainted." Banks will freeze the Letters of Credit, and allied nations will seize the cargo upon arrival at the final destination.

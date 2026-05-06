@@ -1,0 +1,5 @@
+DATE: June 17, 2026
+SOURCE: International Ship and Port Facility Security (ISPS) Code
+SUBJECT: Security Level 3 (Exceptional Threat)
+DOCUMENT_TYPE: Security Law Mandate
+DETAILS: The ISPS Code mandates standardized security protocols. If a port authority elevates to MARSEC Level 3 (indicating an imminent and probable security incident), all commercial operations are suspended. Ships may be ordered to immediately vacate the port, and stevedore operations are halted. Cargo cannot be loaded or unloaded. Logistics platforms must integrate ISPS alerts, as a Level 3 declaration legally voids all guaranteed delivery timelines.

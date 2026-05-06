@@ -1,0 +1,5 @@
+DATE: June 15, 2026
+SOURCE: International Maritime Law (Hague-Visby Rules)
+SUBJECT: Standard Cargo Liability Limitations
+DOCUMENT_TYPE: Legal Liability Framework
+DETAILS: Under the Hague-Visby Rules, a maritime carrier's financial liability for lost or damaged cargo is strictly limited to 666.67 Special Drawing Rights (SDR) per package or unit, or 2 SDR per kilogram of gross weight, whichever is higher. If a shipper transports high-value medical or tech cargo without declaring its true value on the Bill of Lading and paying the ad valorem freight rate, the carrier is legally shielded from full financial restitution in the event of total loss.

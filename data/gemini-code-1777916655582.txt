@@ -1,0 +1,5 @@
+DATE: May 8, 2026
+SOURCE: GCC Transport Engineering Standards
+SUBJECT: Refrigerated Container Voltage Mismatch
+DOCUMENT_TYPE: Operational Bulletin
+DETAILS: European-standard refrigerated containers (Reefers) operating on 220V/50Hz power are experiencing compatibility failures with Omani overland Cold Chain trucks, which output 110V/60Hz auxiliary power. Medical shipments utilizing EU-spec Reefers must secure commercial step-up transformers in Salalah prior to beginning overland transit. Failing to adapt the voltage will result in total cooling system failure within 2 hours of departure.

@@ -1,0 +1,5 @@
+DATE: May 3, 2026
+SOURCE: GCC HealthTech Logistics Alliance
+SUBJECT: Temperature-Controlled Transit Mandate
+DOCUMENT_TYPE: Regulatory Update
+DETAILS: All medical supply chain operators must ensure that overland transport of biologics, insulin, and reactive chemical reagents utilizes certified Cold Chain trucking. Standard dry-van trucks are prohibited for these categories. Currently, there is a 15% shortage of available Cold Chain trucks at the Port of Salalah, which may introduce a minor staging delay of 6 to 12 hours before overland dispatch to the UAE.

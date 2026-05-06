@@ -1,0 +1,5 @@
+DATE: June 10, 2026
+SOURCE: Deep Sea Mining Logistics Council
+SUBJECT: Naturally Occurring Radioactive Material (NORM)
+DOCUMENT_TYPE: Customs Handling Alert
+DETAILS: Supply chains moving deep-sea polymetallic nodules (manganese, cobalt, nickel harvested from the ocean floor) must pre-declare their cargo as NORM. These ancient geological formations emit low-level natural radiation. If undeclared, a bulk shipment of these nodules will trigger the automated radiation portal monitors at UAE and Omani customs checkpoints, causing a total port lockdown and a hazmat terrorism response team deployment.

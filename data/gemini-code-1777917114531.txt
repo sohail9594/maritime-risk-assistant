@@ -1,0 +1,5 @@
+DATE: May 14, 2026
+SOURCE: Maritime Container Tracking Solutions
+SUBJECT: Cloud Disconnect and Edge Controller Resilience
+DOCUMENT_TYPE: Technical Bulletin
+DETAILS: Modern automated climate-controlled containers utilize satellite IoT to transmit telemetry data to cloud dashboards. In areas experiencing GPS or satellite communications jamming, the container will appear "offline" to logistics managers. However, the physical integrity of the cargo is not compromised. The container's onboard "edge controllers" operate independently of the cloud, utilizing local sensors to maintain precise internal temperatures and climate conditions until network connectivity is restored.

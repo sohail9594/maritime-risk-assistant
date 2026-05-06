@@ -1,0 +1,5 @@
+DATE: June 13, 2026
+SOURCE: Global Petrochemical Logistics
+SUBJECT: Overland Transit of Liquid Amines
+DOCUMENT_TYPE: Chemical Handling Physics
+DETAILS: Liquid amine solvents used in carbon capture and storage (CCS) facilities have a relatively high freezing point of -5°C. While sea temperatures are safe, overland trucking routes taking these solvents through high-altitude mountain passes during winter months risk rapid crystallization. Once the amine solvent crystallizes, it expands and ruptures standard ISO tanks. Overland transit through mountainous terrain requires specialized heated ISO tanks connected to the truck's alternator.

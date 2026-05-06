@@ -1,0 +1,5 @@
+DATE: May 15, 2026
+SOURCE: Global Defense Trade Controls
+SUBJECT: Routing of ITAR-Controlled Components
+DOCUMENT_TYPE: Regulatory Mandate
+DETAILS: Military-grade aerospace components, including satellite telemetry arrays and advanced avionics, fall under strict ITAR (International Traffic in Arms Regulations) compliance. These items are legally prohibited from transiting through, or being transshipped at, any port located in a sanctioned or embargoed nation, regardless of the final destination. Any vessel carrying ITAR cargo that diverts into Iranian or Syrian territorial waters for any reason will result in the immediate voiding of the export license and severe federal prosecution of the logistics provider.

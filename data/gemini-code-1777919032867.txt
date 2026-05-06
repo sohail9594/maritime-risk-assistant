@@ -1,0 +1,5 @@
+DATE: June 5, 2026
+SOURCE: UN Environmental Programme
+SUBJECT: Printed Circuit Board (PCB) Export Violations
+DOCUMENT_TYPE: International Law Enforcement
+DETAILS: Under the newly enforced Basel Convention amendments, transboundary shipments of used enterprise IT hardware (servers, routers, laptops) intended for "recycling" are now strictly classified as Hazardous E-Waste. Shipments lacking bilateral governmental consent documentation will be intercepted. GCC customs will immediately seize and impound any containers labeled "scrap electronics" or "used PCBs" to prevent the region from becoming an illicit e-waste dumping ground.

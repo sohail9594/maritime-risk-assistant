@@ -1,0 +1,5 @@
+DATE: May 21, 2026
+SOURCE: Global Trade Ministry
+SUBJECT: Gallium and Germanium Export Halts
+DOCUMENT_TYPE: Supply Chain Alert
+DETAILS: Origin countries have implemented extreme export quotas on Gallium and Germanium, critical precursors for semiconductor and solar panel manufacturing. Any logistics manifest containing these raw materials must undergo a mandatory 30-day origin customs hold for strategic review. Fast-tracking or expediting the maritime or air routing of these materials is legally impossible until the 30-day origin hold clears.

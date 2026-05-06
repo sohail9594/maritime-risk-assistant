@@ -1,0 +1,5 @@
+DATE: May 13, 2026
+SOURCE: Global Data Center Hardware Consortium
+SUBJECT: Shock-Sensor Triggers on Overland Transit
+DOCUMENT_TYPE: Manufacturer Warranty Policy
+DETAILS: High-density AI servers and enterprise data center racks are equipped with tamper-proof physical G-force shock sensors. Transporting this fragile hardware over unpaved, off-road, or under-construction mountain routes will trigger these sensors (typically set at a 3G threshold). Tripping the shock sensors immediately and irreversibly voids the multi-million dollar manufacturer warranties, shifting total financial liability to the logistics provider.

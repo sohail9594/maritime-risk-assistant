@@ -1,0 +1,5 @@
+DATE: June 2, 2026
+SOURCE: Strategic Commodities Reserve
+SUBJECT: Liquid Helium Global Shortage
+DOCUMENT_TYPE: Supply Chain Crisis Alert
+DETAILS: A catastrophic failure at a major North American helium refinement facility has triggered a severe global shortage of liquid helium. Logistics providers moving MRI machines, quantum computing hardware, and aerospace cooling systems are advised that helium replenishment at transshipment ports is completely unavailable. Hardware relying on continuous helium boil-off systems must be expedited to final destinations before internal reserves are exhausted, as en-route refills are impossible.

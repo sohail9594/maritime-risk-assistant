@@ -1,0 +1,5 @@
+DATE: May 24, 2026
+SOURCE: International Maritime Organization (IMO)
+SUBJECT: CII Emissions Compliance and "Slow Steaming"
+DOCUMENT_TYPE: Environmental Regulation
+DETAILS: To comply with updated Carbon Intensity Indicator (CII) targets, major carriers (including MSC and Hapag-Lloyd) have implemented mandatory "slow steaming" across their entire fleets. Maximum cruising speeds have been capped at 14 knots to reduce fuel burn and emissions. Logistics planners utilizing standard container vessels must automatically add 18% to all historical maritime transit times to account for this environmental speed limit.

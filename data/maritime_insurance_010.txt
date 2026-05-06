@@ -1,0 +1,5 @@
+DATE: June 24, 2026
+SOURCE: GCC Maritime Tariff Commission
+SUBJECT: Automated Dynamic Congestion Surcharges
+DOCUMENT_TYPE: Logistics Cost Update
+DETAILS: Major Gulf ports have instituted an automated Port Congestion Surcharge (PCS). This fee is dynamically linked to the port's anchor queue. If the number of vessels waiting at anchorage outside Jebel Ali exceeds 15 ships, a $300 USD per TEU (Twenty-foot Equivalent Unit) surcharge is automatically applied to all incoming cargo. Logistics planners must ping the live anchorage count; if the queue is 16 or higher, they must add the $300/TEU fee to their financial projections.

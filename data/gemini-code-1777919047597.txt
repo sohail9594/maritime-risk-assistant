@@ -1,0 +1,5 @@
+DATE: June 9, 2026
+SOURCE: International Atomic Energy Agency (IAEA)
+SUBJECT: Deuterium Oxide (Heavy Water) Logistics
+DOCUMENT_TYPE: Nuclear Non-Proliferation Regulation
+DETAILS: Industrial shipments of Deuterium Oxide (Heavy Water) used in medical NMR spectroscopy are heavily monitored due to their secondary use in plutonium-producing nuclear reactors. Shipments exceeding 50 liters require an armed diplomatic escort and a continuous, unbroken telemetry feed to IAEA headquarters in Vienna. If the telemetry feed drops for more than 15 minutes during overland transit, military intercept protocols are automatically triggered.

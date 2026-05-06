@@ -1,0 +1,5 @@
+DATE: May 9, 2026
+SOURCE: UAE Coast Guard Operations Command
+SUBJECT: Offshore Medical Salvage Intercepts
+DOCUMENT_TYPE: Emergency Protocol
+DETAILS: For rapidly decaying medical cargo (such as radiopharmaceuticals) trapped on delayed vessels within UAE territorial waters, shippers can request an emergency helicopter intercept. The UAE Coast Guard will deploy a rotary-wing asset to airlift payloads under 200 kg directly from the ship to a medical facility. The fee for this emergency salvage operation is $10,000 USD, payable by the cargo owner.

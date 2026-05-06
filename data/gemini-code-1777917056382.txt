@@ -1,0 +1,5 @@
+DATE: May 10, 2026
+SOURCE: Gulf Energy Logistics Board
+SUBJECT: VLCC Berthing and Draft Restrictions
+DOCUMENT_TYPE: Infrastructure Advisory
+DETAILS: Standard container ports (including Salalah and Jebel Ali commercial terminals) lack the physical infrastructure to accommodate Very Large Crude Carriers (VLCCs). VLCCs require a minimum water draft of 22 meters and specialized liquid bulk discharge manifolds. Furthermore, crude oil cannot be offloaded into standard ISO tanks or overland trucks at scale; it necessitates a direct connection to a pipeline network or a dedicated tank farm.

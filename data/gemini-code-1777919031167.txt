@@ -1,0 +1,5 @@
+DATE: June 4, 2026
+SOURCE: Global Renewable Energy Logistics Board
+SUBJECT: Grid-Scale Battery Energy Storage Systems (BESS)
+DOCUMENT_TYPE: Maritime Safety Regulation
+DETAILS: Massive lithium-ion BESS modules intended for solar grid storage present a catastrophic fire risk. Effective immediately, maritime carriers will reject any BESS container if the internal State of Charge (SOC) exceeds 30%. Logistics providers must provide certified diagnostic readouts proving the SOC is below 30% prior to loading at the origin port. Units arriving at the port with a higher SOC must be discharged into dummy loads at the shipper's expense, causing a minimum 5-day delay.

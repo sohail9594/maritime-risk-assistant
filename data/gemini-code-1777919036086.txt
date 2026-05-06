@@ -1,0 +1,5 @@
+DATE: June 6, 2026
+SOURCE: General Civil Aviation Authority (GCAA)
+SUBJECT: Silver Iodide Weather Modification Flares
+DOCUMENT_TYPE: Aviation Safety Alert
+DETAILS: Silver Iodide flares used for regional cloud seeding and rain enhancement are legally classified as Class 1.4G Pyrotechnic Explosives. Due to heightened security, these items are universally banned from all commercial passenger aircraft "belly cargo." They can only be transported via dedicated military airlift or specialized commercial cargo freighters operating out of remote airstrips, bypassing standard international hubs like DXB.

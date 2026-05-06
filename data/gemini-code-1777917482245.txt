@@ -1,0 +1,5 @@
+DATE: May 20, 2026
+SOURCE: GCC Customs & Defense Logistics
+SUBJECT: Military Rations (MREs) with Flameless Heaters
+DOCUMENT_TYPE: Dangerous Goods Classification
+DETAILS: Logistics planners frequently misclassify Meals, Ready-to-Eat (MREs) as standard food/humanitarian aid. However, MREs containing Flameless Ration Heaters utilize powdered magnesium and iron. When exposed to high maritime humidity or water, they emit flammable hydrogen gas. Therefore, pallets of self-heating MREs are legally classified as Class 4.3 Dangerous Goods (Dangerous When Wet) and cannot be stored in unventilated holds.

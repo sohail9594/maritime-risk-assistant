@@ -1,0 +1,5 @@
+DATE: May 25, 2026
+SOURCE: Lloyd's Maritime Insurance Syndicate
+SUBJECT: Definition of Force Majeure (Act of God)
+DOCUMENT_TYPE: Legal Insurance Standard
+DETAILS: Shippers are reminded of the strict definitions regarding "Force Majeure" cargo delays. Cargo spoilage, demurrage fees, or missed delivery contracts caused directly by severe weather events (e.g., cyclones, tsunamis, massive sandstorms) fall under Acts of God. The logistics carrier bears zero financial liability for these delays, and standard maritime insurance will not reimburse shippers for lost revenue due to weather-induced late deliveries.

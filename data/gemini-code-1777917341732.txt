@@ -1,0 +1,5 @@
+DATE: May 19, 2026
+SOURCE: International Red Cross Logistics Division
+SUBJECT: Fresh Frozen Plasma (FFP) Thermal Excursions
+DOCUMENT_TYPE: Biochemical Standard
+DETAILS: Shipments of Fresh Frozen Plasma (FFP) must be maintained strictly at or below -18°C. If a cold chain failure occurs and the ambient temperature of the container rises above -18°C for more than 60 consecutive minutes (a thermal excursion), the clotting factors in the plasma degrade rapidly. The cargo cannot simply be refrozen. Any FFP subjected to a thermal excursion must be legally classified as medical waste and safely incinerated.

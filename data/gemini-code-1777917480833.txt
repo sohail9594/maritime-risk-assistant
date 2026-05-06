@@ -1,0 +1,5 @@
+DATE: May 20, 2026
+SOURCE: Global Cargo Underwriters
+SUBJECT: End-of-Life / Damaged Lithium Batteries
+DOCUMENT_TYPE: Transport Ban
+DETAILS: While new Electric Vehicle (EV) batteries can be shipped under standard Class 9 Hazmat rules, "End-of-Life" or physically damaged lithium-ion batteries intended for recycling are completely banned from standard container vessels. Damaged cells are at extreme risk for spontaneous "thermal runaway" fires which cannot be extinguished by water. These must be transported in specialized, blast-proof, liquid-submerged containment vessels.

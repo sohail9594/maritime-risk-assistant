@@ -1,0 +1,5 @@
+DATE: May 7, 2026
+SOURCE: UAE Federal Authority for Identity and Citizenship
+SUBJECT: Khatm Al Shiklah Border Temporary Closure
+DOCUMENT_TYPE: Security Alert
+DETAILS: Due to an ongoing localized security incident, the Khatm Al Shiklah overland border crossing between Oman and the UAE is closed to all commercial freight traffic until further notice. Logistics providers routing overland cargo from Salalah to Dubai must recalculate their transit routes to utilize the Hatta Border Crossing. This diversion adds approximately 4.5 hours of driving time to the standard transit estimate.

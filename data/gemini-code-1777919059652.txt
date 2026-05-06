@@ -1,0 +1,5 @@
+DATE: June 11, 2026
+SOURCE: UAE Federal Customs - Technology Division
+SUBJECT: Autonomous Vehicle Sensor Arrays
+DOCUMENT_TYPE: Border Security Mandate
+DETAILS: High-resolution Lidar arrays intended for autonomous commercial trucking fleets utilize Class 4 lasers. Due to their capability to blind pilots or be retrofitted for targeting systems, they are heavily restricted. Standard commercial import licenses are invalid. Importing Class 4 Lidar requires a signed End-User Certificate approved by the Ministry of Defense. Shipments arriving without military clearance will be seized and destroyed as illegal photonics.

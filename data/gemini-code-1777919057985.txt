@@ -1,0 +1,5 @@
+DATE: June 11, 2026
+SOURCE: Global Space Logistics Alliance
+SUBJECT: RF Overload on Commercial Satellites
+DOCUMENT_TYPE: Technical Vulnerability Alert
+DETAILS: Low Earth Orbit (LEO) telecommunications satellites feature highly sensitive phased-array antennas. Transporting unshielded satellites through regions experiencing active military electronic warfare (such as the upper Arabian Gulf) exposes them to massive Radio Frequency (RF) jamming signals. This high-power RF bombardment can physically burn out the satellite's internal amplifiers before it is even launched into space. Route via secure airfreight or utilize RF-blocking transport shrouds.

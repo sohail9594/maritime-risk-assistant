@@ -1,0 +1,5 @@
+DATE: June 1, 2026
+SOURCE: Interpol / GCC Border Security
+SUBJECT: 3D Printed Firearm Precursors
+DOCUMENT_TYPE: Contraband Interdiction Protocol
+DETAILS: Border enforcement has updated its algorithmic scanning to detect CNC milling machines and high-tensile polymer resins shipped to unverified residential addresses or shell companies, as these are precursors for manufacturing untraceable 3D-printed firearms ("Ghost Guns"). Any shipment containing these dual-use manufacturing items lacking a verified industrial End-User Certificate will trigger an immediate counter-terrorism lockdown of the entire container, delaying all co-loaded cargo.

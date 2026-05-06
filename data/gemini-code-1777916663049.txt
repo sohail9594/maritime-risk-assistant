@@ -1,0 +1,5 @@
+DATE: May 8, 2026
+SOURCE: Maritime Arbitration Board
+SUBJECT: Diplomatic Waivers vs. Carrier Policy
+DOCUMENT_TYPE: Legal Advisory
+DETAILS: A ruling by the Arbitration Board confirms that while UN Humanitarian Safe Passage mandates waive war-risk insurance premiums and military blockades, they do not supersede corporate safety protocols. Private commercial carriers (such as MSC or Hapag-Lloyd) retain the absolute right to refuse entry into the Arabian Gulf, even if the vessel carries a UN diplomatic exemption manifest. Shippers cannot legally force a carrier into a Level 4 Risk Zone against the carrier's corporate policy.

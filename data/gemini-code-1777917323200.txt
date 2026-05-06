@@ -1,0 +1,5 @@
+DATE: May 17, 2026
+SOURCE: Global Agricultural Freight Standards
+SUBJECT: Mixed-Load Fruit Ripening Hazard
+DOCUMENT_TYPE: Biochemical Guideline
+DETAILS: When consolidating agricultural shipments due to port delays, logistics planners must account for Ethylene gas production. "Climacteric" fruits (like bananas, avocados, and tomatoes) release large amounts of Ethylene gas as they ripen. If these are packed in the same poorly ventilated hold or transshipment warehouse as Ethylene-sensitive crops (like leafy greens, carrots, or watermelons), the sensitive crops will rapidly yellow, decay, and become unsellable within 72 hours.

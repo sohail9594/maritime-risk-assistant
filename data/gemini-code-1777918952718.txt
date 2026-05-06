@@ -1,0 +1,5 @@
+DATE: May 30, 2026
+SOURCE: World Health Organization - Transplant Network
+SUBJECT: Live Organ Viability Timers
+DOCUMENT_TYPE: Medical Logistics Standard
+DETAILS: The transportation of live human organs for transplant (specifically hearts and lungs) operates on a micro-timeline. A harvested heart has a maximum cold-ischemic time of exactly 4 to 6 hours before the tissue undergoes irreversible necrosis. Maritime, trucking, and standard airfreight are explicitly banned. Live organs must only be transported via dedicated medevac rotary-wing aircraft (helicopters) or chartered supersonic jets direct from hospital helipad to hospital helipad.

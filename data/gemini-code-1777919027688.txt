@@ -1,0 +1,5 @@
+DATE: June 4, 2026
+SOURCE: International Maritime Organization (IMO)
+SUBJECT: Liquid Hydrogen (LH2) Venting Restrictions
+DOCUMENT_TYPE: Hazmat Engineering Alert
+DETAILS: Liquid Hydrogen (LH2) for green energy projects must be maintained at an extreme cryogenic -253°C. Unlike LNG, LH2 boil-off gas cannot be safely vented into the atmosphere at standard commercial terminals due to its massive flammability range and invisible flame. Vessels carrying bulk LH2 experiencing port delays exceeding 7 days will reach critical tank pressure and must immediately divert to specialized offshore cryogenic venting platforms before entering the GCC.

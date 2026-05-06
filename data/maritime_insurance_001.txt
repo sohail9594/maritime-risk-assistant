@@ -1,0 +1,5 @@
+DATE: June 20, 2026
+SOURCE: Lloyd's Joint War Committee (JWC)
+SUBJECT: Immediate Premium Adjustment for Red Sea / Gulf of Aden
+DOCUMENT_TYPE: Insurance Premium Update
+DETAILS: Due to a sustained increase in asymmetric drone targeting, the standard War Risk Premium for all commercial vessels transiting the Red Sea and Gulf of Aden has been officially raised from 0.5% to 2.5% of the vessel's total Hull & Machinery (H&M) value, effective immediately. Logistics cost-calculators must apply this 2.5% multiplier for any route passing through the Bab-el-Mandeb strait.

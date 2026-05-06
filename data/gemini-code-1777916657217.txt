@@ -1,0 +1,5 @@
+DATE: May 8, 2026
+SOURCE: Global Trade Compliance Office
+SUBJECT: Clarification on Medical Exemptions in Restricted Zones
+DOCUMENT_TYPE: Legal Advisory
+DETAILS: While standard pharmaceuticals and humanitarian aid are exempt from primary sanctions, industrial radiology equipment, cyclotrons, and advanced isotopic generators are strictly classified as "Dual-Use Technology" under the Wassenaar Arrangement. These items do not qualify for medical exemptions. Routing these specific items into Level 5 Restricted Zones (e.g., Bandar Abbas) will result in immediate military seizure and severe financial penalties, regardless of their intended hospital destination.

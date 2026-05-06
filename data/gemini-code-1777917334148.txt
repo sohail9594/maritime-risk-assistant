@@ -1,0 +1,5 @@
+DATE: May 18, 2026
+SOURCE: Liquid Chemical Transport Guild
+SUBJECT: ISO Tank Container Fill Limits
+DOCUMENT_TYPE: Physical Handling Guideline
+DETAILS: When transporting liquid industrial chemicals via overland trucks using ISO Tank Containers, strict volumetric fill limits apply to prevent "sloshing" (the violent movement of liquid causing a shift in the center of gravity). ISO tanks must be filled to either less than 20% capacity or more than 80% capacity. An ISO tank filled to 50% capacity creates a catastrophic rollover risk for the truck during evasive maneuvers or sharp highway turns.

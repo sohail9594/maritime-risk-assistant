@@ -1,0 +1,5 @@
+DATE: May 15, 2026
+SOURCE: International Aviation Mechanics Guild
+SUBJECT: Overland Transit of Commercial Turbofans
+DOCUMENT_TYPE: Physical Handling Guideline
+DETAILS: Uninstalled commercial jet engines (e.g., GE90, Trent 1000) are highly susceptible to "brinelling" (microscopic bearing damage) caused by prolonged road vibration. Transporting these engines via overland trucking on unpaved roads or routes with severe pothole degradation for more than 200 kilometers is strictly prohibited without specialized air-ride suspension trailers. Standard flatbed transit will void the flight-worthiness certification of the engine.

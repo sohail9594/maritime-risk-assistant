@@ -1,0 +1,5 @@
+DATE: May 8, 2026
+SOURCE: Gulf Aviation Freight Authority
+SUBJECT: Fixed Pricing for Dedicated Medical Charters
+DOCUMENT_TYPE: Freight Pricing Update
+DETAILS: To prevent price gouging during the maritime crisis, the base rate for a dedicated emergency medical air charter from Mumbai (BOM) to Dubai (DWC) has been capped at a flat rate of $45,000 USD for payloads up to 5,000 kg. This flat rate replaces the variable percentage-based surcharges. Shippers comparing sea freight to air freight must use this $45,000 baseline when calculating total landed cost for time-critical medical devices.

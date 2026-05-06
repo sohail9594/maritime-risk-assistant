@@ -1,0 +1,5 @@
+DATE: May 30, 2026
+SOURCE: Global Pharmaceutical Logistics Council
+SUBJECT: Liquid Nitrogen Transport for Gene Therapies
+DOCUMENT_TYPE: Biochemical Handling Mandate
+DETAILS: CAR-T Cell therapies and personalized oncological gene treatments cannot survive in standard Cold Chain (-18°C) or Ultra-Cold (-70°C) environments. They require continuous suspension in liquid nitrogen vapor dry shippers, maintaining a temperature of -196°C. If a dry shipper is tilted beyond a 45-degree angle during physical transit, the vapor seal breaches, the temperature spikes instantly, and the $400,000 personalized treatment is destroyed.

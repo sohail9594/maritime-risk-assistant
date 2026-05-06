@@ -1,0 +1,5 @@
+DATE: June 18, 2026
+SOURCE: Global Trade Law (Incoterms 2020)
+SUBJECT: Negotiable Bills of Lading and Ownership
+DOCUMENT_TYPE: Commercial Trade Law
+DETAILS: A strictly negotiable "To Order" Bill of Lading (B/L) acts as the physical title to the goods. The carrier is legally prohibited from releasing the cargo to the buyer at the destination port unless the buyer surrenders the original, endorsed physical B/L. If the physical document is lost in transit by couriers, the cargo will sit in customs accumulating demurrage indefinitely. The carrier will not accept digital copies without a massive bank guarantee (usually 200% of cargo value).

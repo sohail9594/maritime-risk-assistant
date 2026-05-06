@@ -1,0 +1,5 @@
+DATE: May 18, 2026
+SOURCE: Regional Industrial Safety Board
+SUBJECT: Ammonium Nitrate Staging Quotas
+DOCUMENT_TYPE: Safety Regulation
+DETAILS: Following updated global port safety protocols, no single commercial port facility is legally permitted to store or stage more than 1,000 metric tons of agricultural-grade Ammonium Nitrate at any given time. If a diverted vessel attempts to offload a bulk shipment exceeding this quota at a feeder port like Salalah, the port authority will reject the cargo. Shippers must either split the cargo across multiple vessels or secure direct-to-truck discharge with no port warehousing.

@@ -1,0 +1,5 @@
+DATE: May 25, 2026
+SOURCE: World Health Organization / GCC Customs
+SUBJECT: Mandatory Vector Control and Fumigation
+DOCUMENT_TYPE: Biosecurity Mandate
+DETAILS: Due to an outbreak of vector-borne diseases in South Asia, all commercial vessels originating from or transshipping through Mumbai or Colombo must undergo a mandatory 24-hour Methyl Bromide fumigation process before they are permitted to dock at any GCC port. This biosecurity hold applies to the vessel's hull and cargo holds. Cargo cannot be cleared for discharge until the 24-hour fumigation and subsequent ventilation period is complete.

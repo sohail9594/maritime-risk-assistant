@@ -1,0 +1,5 @@
+DATE: June 7, 2026
+SOURCE: Global Quantum Computing Consortium
+SUBJECT: Superconducting Qubit Degradation
+DOCUMENT_TYPE: Physics Transit Constraint
+DETAILS: Superconducting quantum processors are hyper-sensitive to cosmic radiation. Transporting quantum computers via standard air freight at 35,000 feet exposes the qubits to high-energy neutron strikes, which permanently alters their quantum coherence properties. Quantum hardware must be transported exclusively via maritime surface freight inside specialized, lead-lined Faraday containers to maintain computational integrity.

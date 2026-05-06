@@ -1,0 +1,5 @@
+DATE: June 20, 2026
+SOURCE: International Group of P&I Clubs
+SUBJECT: ECDIS Hacks and Liability Exclusions
+DOCUMENT_TYPE: Policy Voidance Alert
+DETAILS: Following recent ransomware attacks on vessel navigation systems (ECDIS), P&I Clubs are enforcing the "Cyber Exclusion Clause (Clause 380)." If a vessel is grounded or experiences a collision due to a cyber-attack, and the carrier cannot prove they had isolated, offline navigation backups actively running, all cargo insurance and carrier liability payouts are completely voided. Shippers routing high-value cargo must verify their carrier's cyber-compliance certificate.

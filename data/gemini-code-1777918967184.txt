@@ -1,0 +1,5 @@
+DATE: June 3, 2026
+SOURCE: Maritime Safety Committee
+SUBJECT: Jettison of Class 9 Thermal Runaway Cargo
+DOCUMENT_TYPE: Emergency Maritime Law
+DETAILS: Under extreme emergency maritime law, if a container holding Class 9 Hazardous Materials (such as lithium-ion batteries) enters an uncontainable thermal runaway state while the vessel is at sea, the Captain is legally authorized and encouraged to jettison (throw overboard) the burning container to save the ship. The cargo owner assumes 100% total loss without recourse, as standard insurance policies explicitly void payouts for cargo jettisoned to save the vessel from self-igniting materials.

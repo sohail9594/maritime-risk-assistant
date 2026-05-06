@@ -1,0 +1,5 @@
+DATE: May 27, 2026
+SOURCE: GCC Environmental Protection Agency
+SUBJECT: Auxiliary Engine Emissions Ban
+DOCUMENT_TYPE: Port Regulation
+DETAILS: To improve local air quality, all commercial vessels docked at Jebel Ali must utilize "Cold Ironing"—plugging into the port's electrical grid for power instead of running their onboard auxiliary diesel engines. Vessels lacking shore-power plug compatibility are banned from berthing and must remain at offshore anchorages until they secure specialized zero-emission battery barges, adding a minimum of 4 days to standard discharge times.

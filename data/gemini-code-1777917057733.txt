@@ -1,0 +1,5 @@
+DATE: May 10, 2026
+SOURCE: International Gas Exporters Syndicate
+SUBJECT: Liquefied Natural Gas (LNG) Boil-Off Rates
+DOCUMENT_TYPE: Operational Bulletin
+DETAILS: LNG is transported in specialized cryogenic vessels maintaining a temperature of -162°C. These vessels are not perfectly insulated. During transit, a natural "boil-off" occurs, turning liquid back into vapor at a rate of roughly 0.15% of total cargo volume per day. Logistics planners must calculate this physical loss of cargo value for any prolonged route diversions, such as navigating around the Cape of Good Hope, as extended transit times physically diminish the delivered payload.

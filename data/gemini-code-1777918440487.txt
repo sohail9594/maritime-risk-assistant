@@ -1,0 +1,5 @@
+DATE: May 24, 2026
+SOURCE: Gulf Meteorological Center (GMC)
+SUBJECT: Severe Cyclone Formation - Arabian Sea
+DOCUMENT_TYPE: Weather Emergency Alert
+DETAILS: A Category 3 Cyclonic Storm is currently forming in the central Arabian Sea, tracking northwest toward the coast of Oman. Sustained wind speeds exceed 115 knots. Effective immediately, the Port of Salalah has suspended all maritime approach and berthing operations. All vessels currently at anchor outside Salalah are ordered to weigh anchor and steam into deep water to avoid hull damage. The port will remain closed for a minimum of 72 hours until the storm system dissipates.

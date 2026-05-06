@@ -1,0 +1,5 @@
+DATE: May 4, 2026
+SOURCE: Gulf Maritime Freight Exchange
+SUBJECT: Detention and Demurrage Surcharges
+DOCUMENT_TYPE: Tariff Update
+DETAILS: Shipping lines are implementing emergency Demurrage tariffs for containers stuck outside Jebel Ali port. The penalty is set at $400 USD per TEU per day after the standard 4-day free period. Logistics managers importing medical hardware are advised to recalculate Total Landed Cost; in many cases, paying the premium for overland trucking from Oman is now cheaper than accumulating demurrage fees while idling in the Gulf.

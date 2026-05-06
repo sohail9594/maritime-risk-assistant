@@ -1,0 +1,5 @@
+DATE: May 22, 2026
+SOURCE: Jebel Ali Port Authority
+SUBJECT: GPS Jamming Impact on Automated Cranes
+DOCUMENT_TYPE: Operational Delay Alert
+DETAILS: Ongoing military electronic warfare in the Gulf involves heavy GPS spoofing to deter drone attacks. However, this GPS jamming is crippling the automated, self-driving straddle carriers and robotic cranes at major container terminals. When GPS signals drop, ports must revert to manual crane operation, reducing container discharge speeds by 60% and adding an average of 48 hours to all port calls in the immediate region.

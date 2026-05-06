@@ -1,0 +1,5 @@
+DATE: May 23, 2026
+SOURCE: GCC Customs Compliance Board
+SUBJECT: Polysilicon Forced Labor Audits
+DOCUMENT_TYPE: Import Regulation
+DETAILS: All inbound shipments of photovoltaic (solar) panels must include a "Chain of Custody" cryptographic ledger proving the polysilicon was not mined or refined using forced labor. Shipments lacking this specific documentation will not just be delayed; they will be legally categorized as illicit goods and flagged for mandatory destruction at the importer's expense.

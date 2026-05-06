@@ -1,0 +1,5 @@
+DATE: May 2, 2026
+SOURCE: Regional Maritime Security Taskforce (RMST)
+SUBJECT: High-Risk Navigation Warning - Gulf of Oman
+DOCUMENT_TYPE: Security Alert
+DETAILS: A severe navigational warning is in effect for coordinates 25°N 57°E near the Strait of Hormuz approach. Commercial vessels are advised to maintain a 50-nautical-mile clearance from this zone. The risk profile for the direct maritime route from Mumbai to Jebel Ali is currently categorized as SEVERE (Level 4/5). Carriers are strongly advised to seek alternative discharge ports outside the immediate Gulf zone.

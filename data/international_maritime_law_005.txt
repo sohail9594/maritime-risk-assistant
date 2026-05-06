@@ -1,0 +1,5 @@
+DATE: June 16, 2026
+SOURCE: International Maritime Organization (IMO)
+SUBJECT: Salvage Rights and "No Cure, No Pay"
+DOCUMENT_TYPE: Legal Salvage Framework
+DETAILS: Governed by the 1989 Salvage Convention, maritime salvage operations operate on a strict "No cure, no pay" basis. A salvor who successfully saves a vessel or cargo from danger is entitled to a financial reward (not exceeding the value of the salved property). Furthermore, Article 14 establishes "Special Compensation" for salvors who attempt to prevent severe environmental damage (e.g., oil spills), guaranteeing they recover their expenses even if they fail to save the ship.

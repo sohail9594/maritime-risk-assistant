@@ -1,0 +1,5 @@
+DATE: May 7, 2026
+SOURCE: GCC Unified Customs Council
+SUBJECT: Multimodal Split Routing Directives
+DOCUMENT_TYPE: Regulatory Update
+DETAILS: Due to the divergence of high-weight cargo and temperature-sensitive biologics at alternative ports, customs authorities now require a "Split Manifest Declaration." If a single original Bill of Lading (B/L) from Mumbai is divided at the Port of Salalah—where biologics take overland trucks and heavy machinery (e.g., MRI scanners exceeding 40 tons) waits for sea transit—the shipper must file Form 7A. Failure to file will result in a hard halt of the overland Cold Chain trucks at the UAE border.

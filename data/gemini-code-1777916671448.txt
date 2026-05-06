@@ -1,0 +1,5 @@
+DATE: May 8, 2026
+SOURCE: International Marine Insurance Bureau
+SUBJECT: Delineation of War Risk vs. Hull & Machinery Policies
+DOCUMENT_TYPE: Financial Advisory
+DETAILS: Shippers are reminded that paying the 5.5% War Risk Premium exclusively covers acts of hostility, piracy, and geopolitical violence. It does not replace standard Hull & Machinery (H&M) or standard Cargo insurance. If a vessel's standard insurance policy lapses while delayed at origin, paying the War Risk premium does not provide coverage for natural disasters, weather events, or standard navigational collisions.

@@ -1,0 +1,5 @@
+DATE: May 20, 2026
+SOURCE: International Maritime Dangerous Goods (IMDG) Code
+SUBJECT: Segregation of Cyanides and Corrosives
+DOCUMENT_TYPE: Hazmat Safety Regulation
+DETAILS: Sodium Cyanide (Class 6.1 Toxic) is heavily utilized in regional gold mining operations. IMDG segregation rules strictly prohibit the stowage of Class 6.1 Cyanides in the same container, or adjacent container slot, as Class 8 Corrosives (such as Sulfuric Acid). If these two chemicals breach their packaging and mix, they instantly generate lethal Hydrogen Cyanide gas. Logistics software must enforce a minimum 12-meter segregation distance between these cargo types.

@@ -1,0 +1,5 @@
+DATE: May 17, 2026
+SOURCE: International Bulk Grain Handlers
+SUBJECT: Condensation and Spoilage in Bulk Carriers
+DOCUMENT_TYPE: Physical Handling Alert
+DETAILS: Bulk carriers transporting wheat or corn from cold origins into the extreme heat of the Middle East are experiencing "cargo sweat" (condensation forming on the inside of the steel hull). If ventilation systems fail during extended berthing delays, moisture levels in the grain will exceed the 14.5% safe storage threshold. This rapid moisture spike triggers spontaneous fungal growth (mycotoxins) and self-heating, which can lead to cargo fires and total loss of the food supply.

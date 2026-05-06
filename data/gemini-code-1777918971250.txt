@@ -1,0 +1,5 @@
+DATE: June 3, 2026
+SOURCE: International Atomic Energy Agency (IAEA)
+SUBJECT: Transit of Spent Nuclear Fuel
+DOCUMENT_TYPE: Extreme Security Regulation
+DETAILS: The overland transportation of spent nuclear fuel rods (Class 7 Radioactive) requires extreme security protocols. Routes must be completely sanitized of civilian traffic. The transport convoy must include a lead and trailing armored vehicle, localized signal jamming to prevent remote IED detonation, and a dedicated aerial surveillance drone. Convoys must never stop moving. If a designated route is blocked by infrastructure failure, the convoy must immediately divert to a predefined secondary military holding facility.

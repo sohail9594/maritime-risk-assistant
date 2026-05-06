@@ -1,0 +1,5 @@
+DATE: May 26, 2026
+SOURCE: Global Semiconductor Fabrication Alliance
+SUBJECT: Airborne Particulate Contamination Risk
+DOCUMENT_TYPE: Handling Guideline
+DETAILS: Unsealed semiconductor wafers and lithography optical components must maintain ISO Class 3 cleanroom integrity during transit. If these shipments are routed overland during a severe dust storm or sandstorm, and the container's micro-filtration seals are compromised, the entire payload is assumed contaminated by silica particulates. Such cargo must be written off as a total loss and cannot enter a fabrication facility.

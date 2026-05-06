@@ -1,0 +1,5 @@
+DATE: May 21, 2026
+SOURCE: UAE Maritime Administration
+SUBJECT: AIS Spoofing and Phantom Vessels
+DOCUMENT_TYPE: Security Directive
+DETAILS: To combat the smuggling of sanctioned oil and weapons, UAE and Omani port authorities will permanently ban any commercial vessel identified as part of the "Dark Fleet." Any vessel whose Automatic Identification System (AIS) transponder has been turned off, spoofed, or manipulated for more than 4 consecutive hours in the past 6 months will be denied berthing, refueling, and pilotage services at all GCC ports.

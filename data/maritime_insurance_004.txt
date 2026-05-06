@@ -1,0 +1,5 @@
+DATE: June 21, 2026
+SOURCE: Maritime Mutual Insurance Association
+SUBJECT: Collisions Involving "Dark Fleet" Vessels
+DOCUMENT_TYPE: Financial Risk Advisory
+DETAILS: The Arabian Gulf is seeing an influx of sanctioned "Dark Fleet" vessels operating without AIS transponders. If an insured commercial vessel collides with a Dark Fleet ship, recovering damages is legally and financially impossible, as these ghost ships carry no recognized insurance. To maintain their own collision coverage, commercial carriers operating in the Gulf must now install and utilize military-grade ARPA (Automatic Radar Plotting Aid) systems to log all un-transpondered traffic.

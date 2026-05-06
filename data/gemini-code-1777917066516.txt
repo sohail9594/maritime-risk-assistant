@@ -1,0 +1,5 @@
+DATE: May 12, 2026
+SOURCE: Global Cargo Underwriters
+SUBJECT: Security Mandate for Untraceable Metals
+DOCUMENT_TYPE: Insurance Policy Update
+DETAILS: Due to a spike in regional cargo theft, standard inland transit insurance policies no longer cover "Untraceable Industrial Metals" (specifically copper spools, aluminum ingots, and nickel plates) valued over $1 Million USD when transiting remote or unpaved desert corridors. Full insurance coverage is only validated if the overland trucking convoy is accompanied by a contracted, armed private security escort from the port of origin to the final destination.

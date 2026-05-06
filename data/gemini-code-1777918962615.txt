@@ -1,0 +1,5 @@
+DATE: June 2, 2026
+SOURCE: International Telecommunication Union
+SUBJECT: Fiber Optic Bend Radius and Tension
+DOCUMENT_TYPE: Handling Physics Guideline
+DETAILS: High-voltage, deep-sea fiber optic cables are transported on massive, multi-ton rotational carousels. If these carousels are subjected to sudden braking forces during maritime transit (e.g., a ship dropping anchor at emergency speeds), the kinetic tension can exceed the cable's "minimum bend radius." This causes the internal glass fibers to micro-fracture. Spools subjected to emergency kinetic stops must undergo full optical-reflectometry testing before installation.

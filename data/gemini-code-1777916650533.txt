@@ -1,0 +1,5 @@
+DATE: May 7, 2026
+SOURCE: Oman Port Operations Authority
+SUBJECT: Salalah Reefer Terminal Power Outage
+DOCUMENT_TYPE: Infrastructure Alert
+DETAILS: A localized power grid failure has impacted Terminal B at the Port of Salalah. The port is currently experiencing a critical shortage of 3-phase "Reefer" electrical plugs. Refrigerated medical containers arriving today cannot be connected to port power for an estimated 24 hours. Medical logistics planners must ensure their containers possess sufficient internal backup batteries or thermal mass to survive a 24-hour unpowered staging window.

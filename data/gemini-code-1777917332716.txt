@@ -1,0 +1,5 @@
+DATE: May 18, 2026
+SOURCE: Oman Highway Engineering Department
+SUBJECT: Oversized Transit Turn-Radius Limitations
+DOCUMENT_TYPE: Infrastructure Alert
+DETAILS: Renewable energy logistics face strict geographical constraints. The overland transport of 80-meter offshore wind turbine blades from the Port of Salalah to interior desert wind farms is currently blocked. The "swept path" (turn radius) of the specialized multi-axle trailers carrying these blades physically cannot navigate the newly constructed roundabouts on Highway 31. Alternative unpaved desert bypass routes must be graded and compacted before transit can be approved.

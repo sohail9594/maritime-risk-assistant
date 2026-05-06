@@ -1,0 +1,5 @@
+DATE: May 16, 2026
+SOURCE: Maritime Security Centre - Horn of Africa
+SUBJECT: Piracy High-Risk Area Expansion
+DOCUMENT_TYPE: Security Alert
+DETAILS: Due to a resurgence of asymmetric boarding threats, the Piracy High-Risk Area (HRA) has been expanded eastward into the Arabian Sea. Vessels moving high-value cargo at speeds under 15 knots, or with a freeboard (deck height above water) of less than 8 meters, are considered extreme-risk targets. These vessels must employ privately contracted armed security personnel (PCASP) and rig physical hardening (razor wire, water cannons) before transiting the HRA.

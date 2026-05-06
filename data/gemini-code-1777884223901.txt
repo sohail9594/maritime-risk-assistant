@@ -1,0 +1,5 @@
+DATE: May 5, 2026
+SOURCE: Oman Ministry of Transport and Communications
+SUBJECT: Highway 31 Bridge Maintenance - Heavy Load Restriction
+DOCUMENT_TYPE: Infrastructure Alert
+DETAILS: Emergency structural maintenance is underway on Highway 31, the primary commercial trucking route connecting Salalah to the UAE border. Effective immediately, a strict weight limit of 40 metric tons per vehicle is enforced. Oversized monolithic medical equipment, specifically assembled MRI scanners and industrial radiology chambers, cannot utilize this route until May 15. These items must remain at the Port of Salalah or seek alternative sea-routing. Standard palletized pharmaceuticals are unaffected.

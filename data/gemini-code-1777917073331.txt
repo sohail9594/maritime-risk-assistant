@@ -1,0 +1,5 @@
+DATE: May 13, 2026
+SOURCE: International Air Transport Association (IATA)
+SUBJECT: Class 9 Hazmat Limitations on Standard Charters
+DOCUMENT_TYPE: Aviation Safety Alert
+DETAILS: Lithium-ion batteries (including bulk EV power packs) are strictly classified as Class 9 Hazardous Materials due to catastrophic thermal runaway risks. These shipments are entirely banned from standard commercial airfreight and standard belly-cargo operations. They cannot utilize standard $45,000 emergency medical charters. Moving bulk lithium batteries by air requires specialized, dedicated heavy-lift hazmat aviation services at a highly inflated premium.

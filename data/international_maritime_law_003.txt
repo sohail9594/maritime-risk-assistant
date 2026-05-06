@@ -1,0 +1,5 @@
+DATE: June 15, 2026
+SOURCE: International Maritime Committee (CMI)
+SUBJECT: Declaration of General Average
+DOCUMENT_TYPE: Maritime Law Principle
+DETAILS: The principle of General Average (governed by the York-Antwerp Rules) dictates that all parties in a sea venture proportionally share any losses resulting from a voluntary sacrifice of part of the ship or cargo to save the whole in an emergency. If a captain jettisons 50 containers to prevent the ship from sinking, the owners of the *surviving* cargo are legally obligated to financially compensate the owners of the jettisoned cargo. Cargo cannot be released at the destination port until a General Average bond is posted.

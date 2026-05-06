@@ -1,0 +1,5 @@
+DATE: June 3, 2026
+SOURCE: International Maritime Solid Bulk Cargoes (IMSBC)
+SUBJECT: Nickel Ore and Iron Fines Liquefaction
+DOCUMENT_TYPE: Physics/Handling Alert
+DETAILS: Solid bulk cargoes like Nickel Ore and Iron Fines appear dry when loaded, but possess a hidden moisture content. During the vibration of a long sea voyage, the moisture is pushed to the surface, causing the solid ore to suddenly act like a liquid ("liquefaction"). If a bulk carrier encounters heavy storms while the cargo is liquefied, the fluid mass will violently shift to one side, causing the ship to capsize and sink within minutes. Cargo must be rigorously tested for its Transportable Moisture Limit (TML) before loading.

@@ -1,0 +1,5 @@
+DATE: May 19, 2026
+SOURCE: Global Microchip Fabrication Alliance
+SUBJECT: Extreme Ultraviolet (EUV) Lithography Logistics
+DOCUMENT_TYPE: Handling Mandate
+DETAILS: EUV lithography machines used in microchip manufacturing contain the most precisely polished mirrors on Earth. They are hyper-sensitive to micro-vibrations. Standard maritime shipping or standard overland trucking is strictly prohibited. These systems can only be moved via specialized air-freight, followed by custom-built, climate-controlled, air-ride trailers moving at a maximum speed of 40 km/h with continuous GPS accelerometer monitoring to ensure G-forces never exceed 0.5G.

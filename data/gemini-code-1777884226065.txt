@@ -1,0 +1,5 @@
+DATE: May 5, 2026
+SOURCE: Global Health Logistics Council
+SUBJECT: Transport Protocol for Radiopharmaceuticals
+DOCUMENT_TYPE: Medical Compliance Update
+DETAILS: A critical batch of medical isotopes (Fluorodeoxyglucose) is awaiting dispatch from Mumbai to Dubai. Due to radioactive decay, these isotopes have a strict, non-negotiable viability window of exactly 96 hours from the time they leave the Mumbai facility. If total transit time (sea + overland + customs) exceeds 96 hours, the shipment is classified as a Total Clinical Loss and must be safely disposed of at the carrier's expense.

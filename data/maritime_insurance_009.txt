@@ -1,0 +1,5 @@
+DATE: June 24, 2026
+SOURCE: International Trade Finance Authority
+SUBJECT: Pre-Paid General Average Escrow
+DOCUMENT_TYPE: Financial Regulation
+DETAILS: Following a series of catastrophic lithium-ion battery fires on container ships, cargo insurers are altering how General Average (GA) is handled on high-risk routes. Shippers loading cargo onto vessels carrying Class 9 Hazardous Materials must now deposit a 5% "GA Pre-Payment Bond" into an escrow account before the ship leaves the origin port. If the voyage completes safely, the 5% bond is fully refunded within 48 hours of discharge.

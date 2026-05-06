@@ -1,0 +1,5 @@
+DATE: May 29, 2026
+SOURCE: Regional Port Infrastructure Authority
+SUBJECT: Structural Collapse at Berth 4
+DOCUMENT_TYPE: Emergency Operational Halt
+DETAILS: A catastrophic structural failure has occurred at Jebel Ali Berth 4, resulting in the collapse of a Super-Post-Panamax gantry crane onto a docked vessel. Berths 3, 4, and 5 are completely closed for forensic engineering investigation and debris clearing. Vessels with a draft exceeding 16 meters, which can only be accommodated at these specific deep-water berths, must anchor offshore for an estimated 14 days or divert to alternative deep-water ports.

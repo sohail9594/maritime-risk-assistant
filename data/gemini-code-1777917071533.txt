@@ -1,0 +1,5 @@
+DATE: May 13, 2026
+SOURCE: Emirates Authority for Standardization and Metrology (ESMA)
+SUBJECT: Halal Certification and Transshipment
+DOCUMENT_TYPE: Regulatory Update
+DETAILS: Frozen meat and poultry destined for the UAE must maintain an unbroken Halal supply chain. Diverting Halal cargo to non-Muslim European transshipment hubs for offloading, breaking the original container seals, and repacking the goods in facilities that also process non-Halal products (such as pork) results in the immediate, irreversible voiding of the GCC Halal Certification. Such cargo will be rejected at UAE customs.

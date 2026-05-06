@@ -1,0 +1,5 @@
+DATE: May 16, 2026
+SOURCE: Global Fine Art Underwriters
+SUBJECT: Humidity Physics in Art Transport
+DOCUMENT_TYPE: Logistics Standard
+DETAILS: Moving museum-grade fine art and antiquities requires absolute climate stability, specifically 21°C and precisely 50% Relative Humidity (RH). Logistics planners attempting to use standard commercial Refrigerated Containers (Reefers) for art transport will cause catastrophic damage. Standard Reefers remove moisture from the air to cool the cargo, dropping the RH below 30%, which will cause canvas to crack and ancient wood to warp within 48 hours. Art requires specialized "Climate Control" units, not "Refrigeration" units.

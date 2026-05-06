@@ -1,0 +1,5 @@
+DATE: May 22, 2026
+SOURCE: International Telecommunication Union
+SUBJECT: Red Sea / Gulf Fiber Optic Cable Breaks
+DOCUMENT_TYPE: Infrastructure Protocol
+DETAILS: Recent anchor drags have severed critical subsea internet cables. Replacement fiber optic spools weigh upwards of 4,000 metric tons and cannot be transported on standard container ships. They require specialized "Cable Laying Vessels" (CLVs). CLVs are granted immediate international diplomatic clearance and are exempt from all commercial port fees and queuing due to the critical nature of global internet infrastructure.

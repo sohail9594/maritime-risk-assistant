@@ -1,0 +1,5 @@
+DATE: June 16, 2026
+SOURCE: International Maritime Organization (IMO)
+SUBJECT: Sulfur Emission Control Areas (ECA) Compliance
+DOCUMENT_TYPE: Environmental Law Mandate
+DETAILS: Under MARPOL Annex VI, vessels transiting designated Emission Control Areas (ECAs) must burn fuel with a sulfur content not exceeding 0.10% m/m, or utilize certified exhaust gas cleaning systems (scrubbers). Entering an ECA burning standard heavy marine fuel is a severe federal offense. Port State Control authorities will detain the vessel, confiscate the cargo logs, and levy fines exceeding $100,000 USD per day of violation. Logistics routing must account for low-sulfur fuel availability.

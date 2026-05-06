@@ -1,0 +1,5 @@
+DATE: May 25, 2026
+SOURCE: Dubai Ports Authority
+SUBJECT: Severe Shamal Wind and Dust Storm
+DOCUMENT_TYPE: Operational Halt
+DETAILS: A severe "Shamal" dust storm has reduced visibility to zero across the UAE coastline, bringing sustained wind gusts of 85 km/h. For safety reasons, all Ship-to-Shore (STS) gantry crane operations at Jebel Ali and Khalifa Port are suspended. Containers currently on vessels cannot be discharged until wind speeds drop below 60 km/h. Overland trucking operations from the port gates remain open, but drivers are advised to reduce speeds by 50%.

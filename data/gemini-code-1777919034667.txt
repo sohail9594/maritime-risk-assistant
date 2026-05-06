@@ -1,0 +1,5 @@
+DATE: June 5, 2026
+SOURCE: Middle East Water Security Council
+SUBJECT: Reverse Osmosis (RO) Membrane Calcification
+DOCUMENT_TYPE: Physical Handling Alert
+DETAILS: Industrial Reverse Osmosis membranes used in national desalination plants must remain submerged in a sodium bisulfite preservation fluid during transit. If a container is delayed in a high-heat transshipment yard for more than 14 days, the preservation fluid evaporates. Once dry, the microscopic membrane pores calcify and permanently shatter. The $500,000 cargo becomes completely useless and cannot be regenerated.

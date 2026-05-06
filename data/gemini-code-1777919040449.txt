@@ -1,0 +1,5 @@
+DATE: June 7, 2026
+SOURCE: GCC Ministry of Energy and Infrastructure
+SUBJECT: Proof-of-Work Hardware Taxation
+DOCUMENT_TYPE: Financial Regulation
+DETAILS: To protect regional power grids from unauthorized energy drains, a punitive 200% import tariff has been levied against all high-density Application-Specific Integrated Circuit (ASIC) hardware explicitly designed for cryptocurrency mining. Customs agents are employing AI-driven thermal imaging and manifest scanning to detect undeclared ASIC shipments disguised as "standard data center servers."

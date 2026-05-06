@@ -1,0 +1,5 @@
+DATE: June 15, 2026
+SOURCE: United Nations Convention on the Law of the Sea (UNCLOS)
+SUBJECT: Territorial Waters and Innocent Passage
+DOCUMENT_TYPE: International Treaty Standard
+DETAILS: Under UNCLOS Article 17, ships of all States enjoy the right of innocent passage through territorial waters (up to 12 nautical miles from the baseline). However, passage is non-innocent if the vessel engages in weapons practice, intelligence gathering, or serious pollution. Coastal states may temporarily suspend innocent passage in specified areas of their territorial sea if essential for security. Commercial logistics planners must verify current suspension zones to avoid illegal entry and vessel impoundment.

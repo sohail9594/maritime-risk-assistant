@@ -1,0 +1,5 @@
+DATE: May 21, 2026
+SOURCE: Bureau of Industry and Security (BIS)
+SUBJECT: High-Compute Semiconductor Export Bans
+DOCUMENT_TYPE: Geopolitical Sanction
+DETAILS: To prevent the proliferation of military AI, strict export controls are enforced on semiconductors. Any GPU exceeding a processing threshold of 4,800 TOPS (Tera Operations Per Second) cannot be shipped to or transshipped through the Middle East without a verified End-User Certificate (EUC) proving the chips are for civilian data centers. Unverified shipments will be intercepted and seized by US Naval authorities in international waters.

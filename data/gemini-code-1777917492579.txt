@@ -1,0 +1,5 @@
+DATE: May 23, 2026
+SOURCE: Global Renewable Energy Council
+SUBJECT: Liquid Ammonia Transport Limitations
+DOCUMENT_TYPE: Hazmat Logistics Profile
+DETAILS: Green Ammonia is rapidly replacing LNG as a clean marine fuel. However, unlike LNG, liquid ammonia is a Class 2.3 Highly Toxic Gas. A minor spill does not just cause a fire; it creates a lethal, suffocating toxic cloud. Only ports equipped with dedicated, isolated chemical scrubbing berths can accept ammonia shipments. As of today, the Port of Salalah does not have ammonia-handling certification and will reject these cargoes.

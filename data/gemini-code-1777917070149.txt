@@ -1,0 +1,5 @@
+DATE: May 12, 2026
+SOURCE: GCC Food Security Taskforce
+SUBJECT: Berthing Priority for Bulk Staples
+DOCUMENT_TYPE: Emergency Directive
+DETAILS: In response to regional supply chain instability, the Taskforce has activated Emergency Directive 99A. All GCC port authorities must prioritize the berthing and discharge of bulk carriers transporting foundational staple foods (wheat, rice, barley, and raw sugar). These vessels are granted immediate queue-jumping privileges, superseding the berthing schedules of all containerized consumer goods, electronics, and standard commercial freight.

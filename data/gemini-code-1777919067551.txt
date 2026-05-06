@@ -1,0 +1,5 @@
+DATE: June 13, 2026
+SOURCE: Vertical Farming Supply Chain Alliance
+SUBJECT: Liquid Fertilizer UV Exposure
+DOCUMENT_TYPE: Biological Handling Alert
+DETAILS: Highly concentrated, organic liquid nutrient solutions for indoor vertical farms are transported in translucent IBC totes. If these totes are delayed and left sitting on a sun-drenched tarmac or port yard for more than 48 hours, the intense UV exposure combined with ambient heat will trigger a massive, uncontrollable algae bloom inside the tote. The nutrient balance will be destroyed, and the resulting sludge will clog the farm's automated irrigation systems. Must be stored in dark, covered transit warehouses.

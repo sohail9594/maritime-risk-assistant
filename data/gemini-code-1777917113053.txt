@@ -1,0 +1,5 @@
+DATE: May 14, 2026
+SOURCE: International Arms Control Commission
+SUBJECT: Classification of Drone Components
+DOCUMENT_TYPE: Dual-Use Tech Definitions
+DETAILS: Items described as "agricultural surveying rotors," "high-altitude stabilization chips," or "remote topographic telemetry units" are frequently utilized as foundational components for military-grade Unmanned Aerial Vehicles (UAVs). These items are legally classified as Class 1 Military Dual-Use technology. Routing these components into active conflict zones or attempting to bypass established customs checkpoints is a severe violation of international arms embargoes.

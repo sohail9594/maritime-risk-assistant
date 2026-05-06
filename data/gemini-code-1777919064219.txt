@@ -1,0 +1,5 @@
+DATE: June 12, 2026
+SOURCE: UN Framework Convention on Climate Change
+SUBJECT: Atmospheric Water Generator (AWG) Impoundment
+DOCUMENT_TYPE: Environmental Law Enforcement
+DETAILS: Atmospheric Water Generators (machines that extract drinking water from desert humidity) are arriving in the Gulf in massive numbers. However, customs agents are actively enforcing the Kigali Amendment. Any AWG utilizing highly potent greenhouse gases (specifically HFC-134a or R-410A refrigerants) is legally banned from entering the GCC. Only units certified to use ultra-low GWP refrigerants (like R-290 or CO2) will clear customs.
