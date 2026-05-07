@@ -259,7 +259,6 @@ This project was developed as an academic proof-of-concept demonstrating:
 # Contributors
 
 - Sohail Mohammed
-- Adnan
 - Sulaiman
 
 ---
